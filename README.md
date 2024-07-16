@@ -1,6 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<img align="left" height="200" src="https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-6/380801923_6363011250415035_3864836120737120253_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7A2AiSLnmwMQ7kNvgEneZE-&_nc_ht=scontent.fcai20-6.fna&oh=00_AYBfaE3-PbHLpTHmW6_nvsneWzNgDiZYh4jySkflPM7dqA&oe=669CB6DA"  />
 
 <p align="left">My name is David John and I'm a Full Stack web developer, from Egypt</p>
 
@@ -77,9 +78,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/dj-man-2099/dj-man-2099/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="left" height="200" src="https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-6/380801923_6363011250415035_3864836120737120253_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7A2AiSLnmwMQ7kNvgEneZE-&_nc_ht=scontent.fcai20-6.fna&oh=00_AYBfaE3-PbHLpTHmW6_nvsneWzNgDiZYh4jySkflPM7dqA&oe=669CB6DA"  />
 
 ###
