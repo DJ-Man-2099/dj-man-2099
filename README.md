@@ -59,7 +59,7 @@
   <a href="https://www.facebook.com/dashing.hero.77" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="+201280870992" target="_blank">
+  <a href="https://wa.link/e34bju" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://www.linkedin.com/in/david-john-439807185/" target="_blank">
