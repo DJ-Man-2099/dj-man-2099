@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Dotnet Core (C#) && Ruby-on-Rails (Ruby)<br>🎯 Goals: become a professional web developer<br>🎲 Fun fact: I am a high fan of Marvel Heroes, My Favorite one is Spider-Man</p>
+<p align="left">📚 I'm currently learning Dotnet Core (C#) && Ruby-on-Rails (Ruby)<br>🎯 Goals: become a professional web developer<br>🎲 Fun fact: I am a hugh fan of Marvel Heroes, My Favorite one is Spider-Man</p>
 
 ###
 
