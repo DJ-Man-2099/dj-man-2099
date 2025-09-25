@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is David John and I'm a Full Stack web developer, from Egypt</p>
+<p align="left">My name is David John and I'm a full-stack web developer, from Egypt</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Dotnet Core (C#) && Ruby-on-Rails (Ruby)<br>🎯 Goals: become a professional web developer<br>🎲 Fun fact: I am a hugh fan of Marvel Heroes, My Favorite one is Spider-Man</p>
+<p align="left">📚 I'm currently learning Dotnet Core (C#) && Ruby-on-Rails (Ruby)<br>🎯 Goals: become a professional web developer<br>🎲 Fun fact: I am a huge fan of Marvel Heroes, My Favorite one is Spider-Man</p>
 
 ###
 
